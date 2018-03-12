@@ -29,7 +29,6 @@
     "to": "^0.2.9",
     "typeface-montserrat": "0.0.54",
     "update": "^0.7.4",
-    "w3-css": "^4.0.4",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {

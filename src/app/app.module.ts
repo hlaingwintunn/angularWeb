@@ -4,13 +4,11 @@ import { MainPageModule } from './mainpage/mainpage.module';
 
 
 import { AppComponent } from './app.component';
-import { MainpageComponent } from './mainpage/mainpage.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent,
-    MainpageComponent
+    AppComponent
   ],
   imports: [
     BrowserModule, MainPageModule
