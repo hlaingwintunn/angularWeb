@@ -1,8 +1,8 @@
 /* Remove the navbar's default rounded borders and increase the bottom margin */ 
-.navbar {
+/* .navbar {
     margin-bottom: 50px;
     border-radius: 0;
-  }
+  } */
   
   /* Remove the jumbotron's default bottom margin */ 
    .jumbotron {
