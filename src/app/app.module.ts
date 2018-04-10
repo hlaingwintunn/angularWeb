@@ -6,11 +6,13 @@ import { MainPageModule } from './mainpage/mainpage.module';
 
 
 import { AppComponent } from './app.component';
+import { PaymentComponent } from './payment/payment.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PaymentComponent
   ],
   imports: [
     BrowserModule, MainPageModule, FormsModule, HttpModule
